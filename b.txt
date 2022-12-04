@@ -517,13 +517,555 @@ MTV(川藏),#genre#
 
 一天到晚游泳的鱼,http://qx.5yi.fun/d/Aliyun/%E8%A7%86%E9%A2%91/%E7%BB%8F%E5%85%B8%E8%80%81%E6%AD%8C/%E4%B8%80%E5%A4%A9%E5%88%B0%E6%99%9A%E6%B8%B8%E6%B3%B3%E7%9A%84%E9%B1%BC%20-%20%E5%BC%A0%E9%9B%A8%E7%94%9F.mkv 
 
-🎙音乐(音频）,#genre# 
+
+🎙音乐,#genre# 
 
 黄玫瑰-孙露,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E9%BB%84%E7%8E%AB%E7%91%B0-%E5%AD%99%E9%9C%B2-1024623.flac
 
 鸿雁-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E9%B8%BF%E9%9B%81-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-6304402.flac
 
 鲁冰花-甄妮,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E9%B2%81%E5%86%B0%E8%8A%B1-%E7%94%84%E5%A6%AE-172251.flac
+
+鬼迷心窍(DJ),http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%AC%BC%E8%BF%B7%E5%BF%83%E7%AA%8D%EF%BC%88DJ%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89-%E9%A6%99%E5%AD%90-148362625.mp3
+
+高原蓝-乌兰托娅,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%AB%98%E5%8E%9F%E8%93%9D-%E4%B9%8C%E5%85%B0%E6%89%98%E5%A8%85-324696.flac
+
+驿动的心-姜育恒,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A9%BF%E5%8A%A8%E7%9A%84%E5%BF%83-%E5%A7%9C%E8%82%B2%E6%81%92-329565.flac
+
+香水有毒-Ty秋秋,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A6%99%E6%B0%B4%E6%9C%89%E6%AF%92-Ty%E7%A7%8B%E7%A7%8B-203011.flac
+
+驼铃-刀郎,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A9%BC%E9%93%83-%E5%88%80%E9%83%8E-90516.flac
+
+风雨无阻_(Live)-周华健,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A3%8E%E9%9B%A8%E6%97%A0%E9%98%BB_(Live)-%E5%91%A8%E5%8D%8E%E5%81%A5-21769860.flac
+
+风中的承诺-李翊君,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A3%8E%E4%B8%AD%E7%9A%84%E6%89%BF%E8%AF%BA-%E6%9D%8E%E7%BF%8A%E5%90%9B-511284.flac
+
+风中有朵雨做的云-孟庭苇,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A3%8E%E4%B8%AD%E6%9C%89%E6%9C%B5%E9%9B%A8%E5%81%9A%E7%9A%84%E4%BA%91-%E5%AD%9F%E5%BA%AD%E8%8B%87-320563.flac
+
+青藏高原-朝克吉勒图,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F-%E6%9C%9D%E5%85%8B%E5%90%89%E5%8B%92%E5%9B%BE-9834243.flac
+
+青藏高原-韩红,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F-%E9%9F%A9%E7%BA%A2-1181174.flac
+
+青木林里青木秧(抖音版),http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9D%92%E6%9C%A8%E6%9E%97%E9%87%8C%E9%9D%92%E6%9C%A8%E7%A7%A7(%E6%8A%96%E9%9F%B3%E7%89%88)-%E5%A6%96%E5%A7%AC-89508080.mp3
+
+雾里看花-孟庭苇,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9B%BE%E9%87%8C%E7%9C%8B%E8%8A%B1-%E5%AD%9F%E5%BA%AD%E8%8B%87-54816.flac
+
+雨蝶-李翊君,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9B%A8%E8%9D%B6-%E6%9D%8E%E7%BF%8A%E5%90%9B-165018.flac
+
+雨中飘荡的回忆-降央卓玛,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9B%A8%E4%B8%AD%E9%A3%98%E8%8D%A1%E7%9A%84%E5%9B%9E%E5%BF%86-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-462235.flac
+
+陪你一起看草原-降央卓玛,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%99%AA%E4%BD%A0%E4%B8%80%E8%B5%B7%E7%9C%8B%E8%8D%89%E5%8E%9F-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-985226.flac
+
+雨中的思念-祁隆,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9B%A8%E4%B8%AD%E7%9A%84%E6%80%9D%E5%BF%B5-%E7%A5%81%E9%9A%86-39825949.flac
+
+阿果吉曲-海来阿木,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%98%BF%E6%9E%9C%E5%90%89%E6%9B%B2-%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8-40430817.flac
+
+锡林郭勒大草原-格格,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%94%A1%E6%9E%97%E9%83%AD%E5%8B%92%E5%A4%A7%E8%8D%89%E5%8E%9F-%E6%A0%BC%E6%A0%BC-24720760.mp3
+
+长相依-卓依婷,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%95%BF%E7%9B%B8%E4%BE%9D-%E5%8D%93%E4%BE%9D%E5%A9%B7-866713.flac
+
+那一天-降央卓玛,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%82%A3%E4%B8%80%E5%A4%A9-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-6607074.flac
+
+遥远的小渔村-陈蓉晖,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%81%A5%E8%BF%9C%E7%9A%84%E5%B0%8F%E6%B8%94%E6%9D%91-%E9%99%88%E8%93%89%E6%99%96-142682111.mp3
+
+逆流成河(完整版)-金南玲,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%80%86%E6%B5%81%E6%88%90%E6%B2%B3(%E5%AE%8C%E6%95%B4%E7%89%88)-%E9%87%91%E5%8D%97%E7%8E%B2-54915821.flac
+
+追梦人-高胜美,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E8%BF%BD%E6%A2%A6%E4%BA%BA-%E9%AB%98%E8%83%9C%E7%BE%8E-295405.flac
+🎙音乐,#genre# 
+
+黄玫瑰-孙露,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E9%BB%84%E7%8E%AB%E7%91%B0-%E5%AD%99%E9%9C%B2-1024623.flac
+
+鸿雁-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E9%B8%BF%E9%9B%81-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-6304402.flac
+
+鲁冰花-甄妮,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E9%B2%81%E5%86%B0%E8%8A%B1-%E7%94%84%E5%A6%AE-172251.flac
+
+鬼迷心窍(DJ),http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%AC%BC%E8%BF%B7%E5%BF%83%E7%AA%8D%EF%BC%88DJ%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89-%E9%A6%99%E5%AD%90-148362625.mp3
+
+高原蓝-乌兰托娅,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%AB%98%E5%8E%9F%E8%93%9D-%E4%B9%8C%E5%85%B0%E6%89%98%E5%A8%85-324696.flac
+
+驿动的心-姜育恒,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A9%BF%E5%8A%A8%E7%9A%84%E5%BF%83-%E5%A7%9C%E8%82%B2%E6%81%92-329565.flac
+
+香水有毒-Ty秋秋,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A6%99%E6%B0%B4%E6%9C%89%E6%AF%92-Ty%E7%A7%8B%E7%A7%8B-203011.flac
+
+驼铃-刀郎,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A9%BC%E9%93%83-%E5%88%80%E9%83%8E-90516.flac
+
+风雨无阻_(Live)-周华健,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A3%8E%E9%9B%A8%E6%97%A0%E9%98%BB_(Live)-%E5%91%A8%E5%8D%8E%E5%81%A5-21769860.flac
+
+风中的承诺-李翊君,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A3%8E%E4%B8%AD%E7%9A%84%E6%89%BF%E8%AF%BA-%E6%9D%8E%E7%BF%8A%E5%90%9B-511284.flac
+
+风中有朵雨做的云-孟庭苇,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%A3%8E%E4%B8%AD%E6%9C%89%E6%9C%B5%E9%9B%A8%E5%81%9A%E7%9A%84%E4%BA%91-%E5%AD%9F%E5%BA%AD%E8%8B%87-320563.flac
+
+青藏高原-朝克吉勒图,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F-%E6%9C%9D%E5%85%8B%E5%90%89%E5%8B%92%E5%9B%BE-9834243.flac
+
+青藏高原-韩红,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F-%E9%9F%A9%E7%BA%A2-1181174.flac
+
+青木林里青木秧(抖音版),http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9D%92%E6%9C%A8%E6%9E%97%E9%87%8C%E9%9D%92%E6%9C%A8%E7%A7%A7(%E6%8A%96%E9%9F%B3%E7%89%88)-%E5%A6%96%E5%A7%AC-89508080.mp3
+
+雾里看花-孟庭苇,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9B%BE%E9%87%8C%E7%9C%8B%E8%8A%B1-%E5%AD%9F%E5%BA%AD%E8%8B%87-54816.flac
+
+雨蝶-李翊君,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9B%A8%E8%9D%B6-%E6%9D%8E%E7%BF%8A%E5%90%9B-165018.flac
+
+雨中飘荡的回忆-降央卓玛,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9B%A8%E4%B8%AD%E9%A3%98%E8%8D%A1%E7%9A%84%E5%9B%9E%E5%BF%86-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-462235.flac
+
+陪你一起看草原-降央卓玛,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%99%AA%E4%BD%A0%E4%B8%80%E8%B5%B7%E7%9C%8B%E8%8D%89%E5%8E%9F-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-985226.flac
+
+雨中的思念-祁隆,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%9B%A8%E4%B8%AD%E7%9A%84%E6%80%9D%E5%BF%B5-%E7%A5%81%E9%9A%86-39825949.flac
+
+阿果吉曲-海来阿木,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%98%BF%E6%9E%9C%E5%90%89%E6%9B%B2-%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8-40430817.flac
+
+锡林郭勒大草原-格格,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%94%A1%E6%9E%97%E9%83%AD%E5%8B%92%E5%A4%A7%E8%8D%89%E5%8E%9F-%E6%A0%BC%E6%A0%BC-24720760.mp3
+
+长相依-卓依婷,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%95%BF%E7%9B%B8%E4%BE%9D-%E5%8D%93%E4%BE%9D%E5%A9%B7-866713.flac
+
+那一天-降央卓玛,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%82%A3%E4%B8%80%E5%A4%A9-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-6607074.flac
+
+遥远的小渔村-陈蓉晖,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%81%A5%E8%BF%9C%E7%9A%84%E5%B0%8F%E6%B8%94%E6%9D%91-%E9%99%88%E8%93%89%E6%99%96-142682111.mp3
+
+逆流成河(完整版)-金南玲,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E9%80%86%E6%B5%81%E6%88%90%E6%B2%B3(%E5%AE%8C%E6%95%B4%E7%89%88)-%E9%87%91%E5%8D%97%E7%8E%B2-54915821.flac
+
+追梦人-高胜美,http://qx.5yi.fun/Aliyun/%E9%9F%B3%E9%A2%91/%E8%BF%BD%E6%A2%A6%E4%BA%BA-%E9%AB%98%E8%83%9C%E7%BE%8E-295405.flac
+
+轻轻的告诉你-杨钰莹,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%BD%BB%E8%BD%BB%E7%9A%84%E5%91%8A%E8%AF%89%E4%BD%A0-%E6%9D%A8%E9%92%B0%E8%8E%B9-45831281.flac
+
+轮回-谢旦_才让曲尼,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%BD%AE%E5%9B%9E-%E8%B0%A2%E6%97%A6_%E6%89%8D%E8%AE%A9%E6%9B%B2%E5%B0%BC-22862250.mp3
+
+车站-曹磊,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%BD%A6%E7%AB%99-%E6%9B%B9%E7%A3%8A-292613.flac
+
+走过咖啡屋-千百惠,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%B5%B0%E8%BF%87%E5%92%96%E5%95%A1%E5%B1%8B-%E5%8D%83%E7%99%BE%E6%83%A0-1029201.flac
+
+走天涯-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%B5%B0%E5%A4%A9%E6%B6%AF-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-985231.flac
+
+走西口-王二妮,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%B5%B0%E8%A5%BF%E5%8F%A3-%E7%8E%8B%E4%BA%8C%E5%A6%AE-1013363.flac
+
+谢谢你的爱_(国语)-刘德华,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%B0%A2%E8%B0%A2%E4%BD%A0%E7%9A%84%E7%88%B1_(%E5%9B%BD%E8%AF%AD)-%E5%88%98%E5%BE%B7%E5%8D%8E-22818759.flac
+
+谢旦-藏歌,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%B0%A2%E6%97%A6-%E8%97%8F%E6%AD%8C-4265715.mp3
+
+西海情歌_(Live)-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%A5%BF%E6%B5%B7%E6%83%85%E6%AD%8C_(Live)-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-47349000.flac
+
+谁在窗外流泪-小骆驼,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%B0%81%E5%9C%A8%E7%AA%97%E5%A4%96%E6%B5%81%E6%B3%AA-%E5%B0%8F%E9%AA%86%E9%A9%BC-6990093.flac
+
+记事本-陈慧琳,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%AE%B0%E4%BA%8B%E6%9C%AC-%E9%99%88%E6%85%A7%E7%90%B3-86371.flac
+
+藕断丝连-陈瑞,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%97%95%E6%96%AD%E4%B8%9D%E8%BF%9E-%E9%99%88%E7%91%9E-385834.flac
+
+藏歌-扎西尼玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%97%8F%E6%AD%8C-%E6%89%8E%E8%A5%BF%E5%B0%BC%E7%8E%9B-51568677.mp3
+
+藏歌-成林江措,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%97%8F%E6%AD%8C-%E6%88%90%E6%9E%97%E6%B1%9F%E6%8E%AA-21767495.mp3
+
+蓝蓝的夜_蓝蓝的梦-张咪,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%93%9D%E8%93%9D%E7%9A%84%E5%A4%9C_%E8%93%9D%E8%93%9D%E7%9A%84%E6%A2%A6-%E5%BC%A0%E5%92%AA-22847239.mp3
+
+蓝莲花-许巍,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%93%9D%E8%8E%B2%E8%8A%B1-%E8%AE%B8%E5%B7%8D-154176.flac
+
+葬心-黄莺莺,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%91%AC%E5%BF%83-%E9%BB%84%E8%8E%BA%E8%8E%BA-27393728.flac
+
+草原情歌-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%8D%89%E5%8E%9F%E6%83%85%E6%AD%8C-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-51577262.flac
+
+草原夜色美-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%8D%89%E5%8E%9F%E5%A4%9C%E8%89%B2%E7%BE%8E-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-707530.flac
+
+苍天般的阿拉善-哈布尔,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%8B%8D%E5%A4%A9%E8%88%AC%E7%9A%84%E9%98%BF%E6%8B%89%E5%96%84-%E5%93%88%E5%B8%83%E5%B0%94-23474129.flac
+
+花心-周华健,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%8A%B1%E5%BF%83-%E5%91%A8%E5%8D%8E%E5%81%A5-74462.flac
+
+花开的时候你就来看我-张冬玲,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%8A%B1%E5%BC%80%E7%9A%84%E6%97%B6%E5%80%99%E4%BD%A0%E5%B0%B1%E6%9D%A5%E7%9C%8B%E6%88%91-%E5%BC%A0%E5%86%AC%E7%8E%B2-22874827.flac
+
+美丽的草原我的家-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%BE%8E%E4%B8%BD%E7%9A%84%E8%8D%89%E5%8E%9F%E6%88%91%E7%9A%84%E5%AE%B6-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-594826.flac
+
+舞女泪-韩宝仪,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E8%88%9E%E5%A5%B3%E6%B3%AA-%E9%9F%A9%E5%AE%9D%E4%BB%AA-234993.flac
+
+美丽的神话-孙楠_韩红,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%BE%8E%E4%B8%BD%E7%9A%84%E7%A5%9E%E8%AF%9D-%E5%AD%99%E6%A5%A0_%E9%9F%A9%E7%BA%A2-45830172.flac
+
+给给(Live)-谭维维,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%BB%99%E7%BB%99(Live)-%E8%B0%AD%E7%BB%B4%E7%BB%B4.mp3
+
+红雪莲-甘雅丹,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%BA%A2%E9%9B%AA%E8%8E%B2-%E7%94%98%E9%9B%85%E4%B8%B9-577989.flac
+
+等你等了那么久-祁隆_乐凡,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%AD%89%E4%BD%A0%E7%AD%89%E4%BA%86%E9%82%A3%E4%B9%88%E4%B9%85-%E7%A5%81%E9%9A%86_%E4%B9%90%E5%87%A1-10440833.mp3
+
+笑脸-谢东,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%AC%91%E8%84%B8-%E8%B0%A2%E4%B8%9C-7573258.flac
+
+童年的回忆,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%AB%A5%E5%B9%B4%E7%9A%84%E5%9B%9E%E5%BF%86-Richard_Clayderman-848866.flac
+
+站着等你三千年-王琪,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%AB%99%E7%9D%80%E7%AD%89%E4%BD%A0%E4%B8%89%E5%8D%83%E5%B9%B4-%E7%8E%8B%E7%90%AA-60010502.flac
+
+离别草原-云飞,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%A6%BB%E5%88%AB%E8%8D%89%E5%8E%9F-%E4%BA%91%E9%A3%9E-6435759.flac
+
+离别的秋天-孙露,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%A6%BB%E5%88%AB%E7%9A%84%E7%A7%8B%E5%A4%A9-%E5%AD%99%E9%9C%B2-934125.flac
+
+知心爱人-付笛声_任静,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%9F%A5%E5%BF%83%E7%88%B1%E4%BA%BA-%E4%BB%98%E7%AC%9B%E5%A3%B0_%E4%BB%BB%E9%9D%99-487333.flac
+
+真的好想你-周冰倩,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%83%B3%E4%BD%A0-%E5%91%A8%E5%86%B0%E5%80%A9-338324.flac
+
+看透爱情看透你-冷漠_云菲菲,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%9C%8B%E9%80%8F%E7%88%B1%E6%83%85%E7%9C%8B%E9%80%8F%E4%BD%A0-%E5%86%B7%E6%BC%A0_%E4%BA%91%E8%8F%B2%E8%8F%B2-11936851.flac
+
+相见恨晚-彭佳慧,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A-%E5%BD%AD%E4%BD%B3%E6%85%A7-386596.flac
+
+男人的无奈-Dj,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%94%B7%E4%BA%BA%E7%9A%84%E6%97%A0%E5%A5%88-Dj%E3%80%81%E8%88%9E%E6%9B%B2%E3%80%81%E6%9A%B4%E6%9E%97-20276182.flac
+
+相爱容易忘记难-唐古,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%9B%B8%E7%88%B1%E5%AE%B9%E6%98%93%E5%BF%98%E8%AE%B0%E9%9A%BE-%E5%94%90%E5%8F%A4-70086795.flac
+
+独角戏-许茹芸,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%8B%AC%E8%A7%92%E6%88%8F-%E8%AE%B8%E8%8C%B9%E8%8A%B8-320442.flac
+
+特别的爱给特别的你-伍思凯,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%89%B9%E5%88%AB%E7%9A%84%E7%88%B1%E7%BB%99%E7%89%B9%E5%88%AB%E7%9A%84%E4%BD%A0-%E4%BC%8D%E6%80%9D%E5%87%AF-63550.flac
+
+片片枫叶情-李艺彬,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%89%87%E7%89%87%E6%9E%AB%E5%8F%B6%E6%83%85-%E6%9D%8E%E8%89%BA%E5%BD%AC-39274222.mp3
+
+父亲的草原母亲的河-哈布尔,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%88%B6%E4%BA%B2%E7%9A%84%E8%8D%89%E5%8E%9F%E6%AF%8D%E4%BA%B2%E7%9A%84%E6%B2%B3-%E5%93%88%E5%B8%83%E5%B0%94-3470241.flac
+
+父亲-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%88%B6%E4%BA%B2-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-3386318.flac
+
+爱的礼物-苏云,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%88%B1%E7%9A%84%E7%A4%BC%E7%89%A9-%E8%8B%8F%E4%BA%91-224206.flac
+
+爱情的秋天-孙露,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%88%B1%E6%83%85%E7%9A%84%E7%A7%8B%E5%A4%A9-%E5%AD%99%E9%9C%B2-1426120.flac
+
+爱你每一天-罗让_阿斯满,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%88%B1%E4%BD%A0%E6%AF%8F%E4%B8%80%E5%A4%A9-%E7%BD%97%E8%AE%A9_%E9%98%BF%E6%96%AF%E6%BB%A1-40333731.flac
+
+爱如星火-冷漠_杨小曼,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%88%B1%E5%A6%82%E6%98%9F%E7%81%AB-%E5%86%B7%E6%BC%A0_%E6%9D%A8%E5%B0%8F%E6%9B%BC-6633172.flac
+
+烟雨人间-海来阿木,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%83%9F%E9%9B%A8%E4%BA%BA%E9%97%B4-%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8-175268467.flac
+
+点歌的人-海来阿木,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E7%82%B9%E6%AD%8C%E7%9A%84%E4%BA%BA-%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8-92022321.flac
+
+涛声依旧-毛宁,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%B6%9B%E5%A3%B0%E4%BE%9D%E6%97%A7-%E6%AF%9B%E5%AE%81-4204795.flac
+
+流泪的情人-张冬玲,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%B5%81%E6%B3%AA%E7%9A%84%E6%83%85%E4%BA%BA-%E5%BC%A0%E5%86%AC%E7%8E%B2-5637493.flac
+
+
+没有情人的情人节-孟庭苇,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%B2%A1%E6%9C%89%E6%83%85%E4%BA%BA%E7%9A%84%E6%83%85%E4%BA%BA%E8%8A%82-%E5%AD%9F%E5%BA%AD%E8%8B%87-54743.flac
+
+没有你陪伴我真的好孤单-冷漠,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%B2%A1%E6%9C%89%E4%BD%A0%E9%99%AA%E4%BC%B4%E6%88%91%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%AD%A4%E5%8D%95-%E5%86%B7%E6%BC%A0-6329735.flac
+
+永远的等你-梅朵_祁隆,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%AD%89%E4%BD%A0-%E6%A2%85%E6%9C%B5_%E7%A5%81%E9%9A%86-41394426.flac
+
+水手-郑智化,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%B0%B4%E6%89%8B-%E9%83%91%E6%99%BA%E5%8C%96-55219.flac
+
+殇雪-云菲菲,
+http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%AE%87%E9%9B%AA-%E4%BA%91%E8%8F%B2%E8%8F%B2-4441094.flac
+
+歌在飞-苏勒亚其其格,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%AD%8C%E5%9C%A8%E9%A3%9E-%E8%8B%8F%E5%8B%92%E4%BA%9A%E5%85%B6%E5%85%B6%E6%A0%BC-9374861.flac
+
+欢快悦耳的藏语歌曲-勒毛措,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%AC%A2%E5%BF%AB%E6%82%A6%E8%80%B3%E7%9A%84%E8%97%8F%E8%AF%AD%E6%AD%8C%E6%9B%B2-%E5%8B%92%E6%AF%9B%E6%8E%AA-51609842.mp3
+
+次真拉姆-扎西尼玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%AC%A1%E7%9C%9F%E6%8B%89%E5%A7%86-%E6%89%8E%E8%A5%BF%E5%B0%BC%E7%8E%9B-651043.flac
+
+橄榄树-齐豫,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%A9%84%E6%A6%84%E6%A0%91-%E9%BD%90%E8%B1%AB-167737.flac
+
+梦里水乡-江珊,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%A2%A6%E9%87%8C%E6%B0%B4%E4%B9%A1-%E6%B1%9F%E7%8F%8A-4186929.flac
+
+梦中的额吉(蒙语)-乌达木,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%A2%9D%E5%90%89(%E8%92%99%E8%AF%AD)-%E4%B9%8C%E8%BE%BE%E6%9C%A8-2732010.flac
+
+梦中的妈妈-云飞,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%A2%A6%E4%B8%AD%E7%9A%84%E5%A6%88%E5%A6%88-%E4%BA%91%E9%A3%9E-3623261.flac
+
+梅花三弄-姜育恒,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%A2%85%E8%8A%B1%E4%B8%89%E5%BC%84-%E5%A7%9C%E8%82%B2%E6%81%92-325568.flac
+
+桥边姑娘-海伦,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%A1%A5%E8%BE%B9%E5%A7%91%E5%A8%98-%E6%B5%B7%E4%BC%A6-81010978.flac
+
+极品欧美重低音旋律-国飞,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%9E%81%E5%93%81%E6%AC%A7%E7%BE%8E%E9%87%8D%E4%BD%8E%E9%9F%B3%E6%97%8B%E5%BE%8B-%E5%9B%BD%E9%A3%9E-145870281.flac
+
+来跳舞(中文版)-海来阿木,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%9D%A5%E8%B7%B3%E8%88%9E(%E4%B8%AD%E6%96%87%E7%89%88)-%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8-179797092.flac
+
+朋友别哭-吕方,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%9C%8B%E5%8F%8B%E5%88%AB%E5%93%AD-%E5%90%95%E6%96%B9-147500.flac
+
+朋友-周华健,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%9C%8B%E5%8F%8B-%E5%91%A8%E5%8D%8E%E5%81%A5-239580.flac
+
+有没有人告诉你_(广场舞)-陈楚生,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%91%8A%E8%AF%89%E4%BD%A0_(%E5%B9%BF%E5%9C%BA%E8%88%9E)-%E9%99%88%E6%A5%9A%E7%94%9F-52625607.mp3
+
+月夜-包胡尔查,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%9C%88%E5%A4%9C-%E5%8C%85%E8%83%A1%E5%B0%94%E6%9F%A5-26442781.flac
+
+有一种思念叫永远-倪尔萍,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%9C%89%E4%B8%80%E7%A7%8D%E6%80%9D%E5%BF%B5%E5%8F%AB%E6%B0%B8%E8%BF%9C-%E5%80%AA%E5%B0%94%E8%90%8D-69896853.flac
+
+月亮船-杨钰莹,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%9C%88%E4%BA%AE%E8%88%B9-%E6%9D%A8%E9%92%B0%E8%8E%B9-23642751.flac
+
+最浪漫的事-邝美云,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%9C%80%E6%B5%AA%E6%BC%AB%E7%9A%84%E4%BA%8B-%E9%82%9D%E7%BE%8E%E4%BA%91-286320.flac
+
+暗香-沙宝亮,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%9A%97%E9%A6%99-%E6%B2%99%E5%AE%9D%E4%BA%AE-22873024.flac
+
+晚秋-毛宁,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%99%9A%E7%A7%8B-%E6%AF%9B%E5%AE%81-80050.flac
+
+星语心愿-张柏芝,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%98%9F%E8%AF%AD%E5%BF%83%E6%84%BF-%E5%BC%A0%E6%9F%8F%E8%8A%9D-79079.flac
+
+明天你是否依然爱我-童安格,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%98%8E%E5%A4%A9%E4%BD%A0%E6%98%AF%E5%90%A6%E4%BE%9D%E7%84%B6%E7%88%B1%E6%88%91-%E7%AB%A5%E5%AE%89%E6%A0%BC-27157265.flac
+
+无所谓-杨坤,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%97%A0%E6%89%80%E8%B0%93-%E6%9D%A8%E5%9D%A4-130594.flac
+
+新鸳鸯蝴蝶梦-黄安,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%96%B0%E9%B8%B3%E9%B8%AF%E8%9D%B4%E8%9D%B6%E6%A2%A6-%E9%BB%84%E5%AE%89-184217843.flac
+
+敖包相会-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%95%96%E5%8C%85%E7%9B%B8%E4%BC%9A-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-594818.flac
+
+故乡的歌谣-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%95%85%E4%B9%A1%E7%9A%84%E6%AD%8C%E8%B0%A3-(%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E5%AE%89%E5%B1%85%E3%80%8B%E7%89%87%E5%B0%BE%E6%9B%B2)-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-9859036.flac
+
+披着羊皮的狼-刀郎,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%8A%AB%E7%9D%80%E7%BE%8A%E7%9A%AE%E7%9A%84%E7%8B%BC-%E5%88%80%E9%83%8E-129386.flac
+
+拯救-孙楠,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%8B%AF%E6%95%91-(%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E6%8B%BF%E4%BB%80%E4%B9%88%E6%8B%AF%E6%95%91%E4%BD%A0_%E6%88%91%E7%9A%84%E7%88%B1%E4%BA%BA%E3%80%8B%E7%89%87%E5%B0%BE%E6%9B%B2)-%E5%AD%99%E6%A5%A0-106658.flac
+
+找一个字代替-邰正宵,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%89%BE%E4%B8%80%E4%B8%AA%E5%AD%97%E4%BB%A3%E6%9B%BF-%E9%82%B0%E6%AD%A3%E5%AE%B5-2837343.flac
+
+我的楼兰-云朵,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E7%9A%84%E6%A5%BC%E5%85%B0-%E4%BA%91%E6%9C%B5-3401030.flac
+
+我的九寨-泽尔丹,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E7%9A%84%E4%B9%9D%E5%AF%A8-%E6%B3%BD%E5%B0%94%E4%B8%B9-621239.flac
+
+我来人间一趟(DJ默涵版)-魏佳艺,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E6%9D%A5%E4%BA%BA%E9%97%B4%E4%B8%80%E8%B6%9F(DJ%E9%BB%98%E6%B6%B5%E7%89%88)-%E9%AD%8F%E4%BD%B3%E8%89%BA-225801083.flac
+
+我曾用心爱着你-潘美辰,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E6%9B%BE%E7%94%A8%E5%BF%83%E7%88%B1%E7%9D%80%E4%BD%A0-%E6%BD%98%E7%BE%8E%E8%BE%B0-22848283.flac
+
+我是不是该安静的走开-郭富城,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E6%98%AF%E4%B8%8D%E6%98%AF%E8%AF%A5%E5%AE%89%E9%9D%99%E7%9A%84%E8%B5%B0%E5%BC%80-%E9%83%AD%E5%AF%8C%E5%9F%8E-293170.flac
+
+我是不是你最疼爱的人-潘越云,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%9C%80%E7%96%BC%E7%88%B1%E7%9A%84%E4%BA%BA-%E6%BD%98%E8%B6%8A%E4%BA%91-167454.flac
+
+我是一只小小鸟-赵传,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E5%B0%8F%E5%B0%8F%E9%B8%9F-%E8%B5%B5%E4%BC%A0-158864.flac
+
+我悄悄蒙上你的眼睛-陈艾湄_高明骏,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E6%82%84%E6%82%84%E8%92%99%E4%B8%8A%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%9D%9B-%E9%99%88%E8%89%BE%E6%B9%84_%E9%AB%98%E6%98%8E%E9%AA%8F-278014.flac
+
+我和草原有个约定-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E5%92%8C%E8%8D%89%E5%8E%9F%E6%9C%89%E4%B8%AA%E7%BA%A6%E5%AE%9A-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-462233.flac
+
+我们的爱-飞儿乐团,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E4%BB%AC%E7%9A%84%E7%88%B1-%E9%A3%9E%E5%84%BF%E4%B9%90%E5%9B%A2-91623.flac
+
+我不想说-杨钰莹,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E4%B8%8D%E6%83%B3%E8%AF%B4-%E6%9D%A8%E9%92%B0%E8%8E%B9-1027362.flac
+
+我从雪山来-云飞,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%88%91%E4%BB%8E%E9%9B%AA%E5%B1%B1%E6%9D%A5-%E4%BA%91%E9%A3%9E.wma
+
+情路弯弯(DJ散人版)_龙梅子,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%83%85%E8%B7%AF%E5%BC%AF%E5%BC%AF(DJ%E6%95%A3%E4%BA%BA%E7%89%88)-DJ%E6%95%A3%E4%BA%BA_%E9%BE%99%E6%A2%85%E5%AD%90-30356544.aac
+
+懂你-满文军,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%87%82%E4%BD%A0-%E6%BB%A1%E6%96%87%E5%86%9B-61266524.flac
+
+想着你亲爱的-祁隆,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%83%B3%E7%9D%80%E4%BD%A0%E4%BA%B2%E7%88%B1%E7%9A%84-%E7%A5%81%E9%9A%86-41376844.flac
+
+想你的时候-千百惠,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%83%B3%E4%BD%A0%E7%9A%84%E6%97%B6%E5%80%99-%E5%8D%83%E7%99%BE%E6%83%A0-312969.flac
+
+情深深雨濛濛-华语群星,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%83%85%E6%B7%B1%E6%B7%B1%E9%9B%A8%E6%BF%9B%E6%BF%9B-%E5%8D%8E%E8%AF%AD%E7%BE%A4%E6%98%9F-61076.flac
+
+心雨-毛宁_杨钰莹,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%BF%83%E9%9B%A8-%E6%AF%9B%E5%AE%81_%E6%9D%A8%E9%92%B0%E8%8E%B9-22856500.flac
+
+怒放的生命-汪峰,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E6%80%92%E6%94%BE%E7%9A%84%E7%94%9F%E5%91%BD-%E6%B1%AA%E5%B3%B0-122560.flac
+
+心锁-冷漠_杨小曼,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%BF%83%E9%94%81-%E5%86%B7%E6%BC%A0_%E6%9D%A8%E5%B0%8F%E6%9B%BC-6606144.flac
+
+心太软-任贤齐,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%BF%83%E5%A4%AA%E8%BD%AF-%E4%BB%BB%E8%B4%A4%E9%BD%90-151087.flac
+
+心要让你听见-邰正宵,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%BF%83%E8%A6%81%E8%AE%A9%E4%BD%A0%E5%90%AC%E8%A7%81-%E9%82%B0%E6%AD%A3%E5%AE%B5-113709.flac
+
+弯弯的月亮-刘欢,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE-%E5%88%98%E6%AC%A2-149368.flac
+
+德令哈一夜-刀郎,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%BE%B7%E4%BB%A4%E5%93%88%E4%B8%80%E5%A4%9C-%E5%88%80%E9%83%8E-545649.flac
+
+微风细雨-张玮伽,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%BE%AE%E9%A3%8E%E7%BB%86%E9%9B%A8-%E5%BC%A0%E7%8E%AE%E4%BC%BD-4817230.flac
+
+小苹果-筷子兄弟,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%B0%8F%E8%8B%B9%E6%9E%9C-%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F-4838892.flac
+
+小村之恋-邓丽君,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%B0%8F%E6%9D%91%E4%B9%8B%E6%81%8B-%E9%82%93%E4%B8%BD%E5%90%9B-3437431.flac
+
+小小新娘花-孙露,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%B0%8F%E5%B0%8F%E6%96%B0%E5%A8%98%E8%8A%B1-%E5%AD%99%E9%9C%B2-2216462.flac
+
+寂色-纯音乐,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%AF%82%E8%89%B2(%E5%B0%8F%E6%8F%90%E7%90%B4%E6%BC%94%E5%A5%8F%E6%9B%B2)-%E7%BA%AF%E9%9F%B3%E4%B9%90-51567960.mp3
+
+容易受伤的女人(国语版)-王菲,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%AE%B9%E6%98%93%E5%8F%97%E4%BC%A4%E7%9A%84%E5%A5%B3%E4%BA%BA(%E5%9B%BD%E8%AF%AD%E7%89%88)-%E7%8E%8B%E8%8F%B2-513523.flac
+
+守在你来时的路口-梅朵,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%AE%88%E5%9C%A8%E4%BD%A0%E6%9D%A5%E6%97%B6%E7%9A%84%E8%B7%AF%E5%8F%A3-%E6%A2%85%E6%9C%B5%5B%E7%94%B5%E5%8F%B0%5D-57507194.flac
+
+婉君-李翊君,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A9%89%E5%90%9B-%E6%9D%8E%E7%BF%8A%E5%90%9B-90156.flac
+
+姑娘我爱你-索朗扎西,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A7%91%E5%A8%98%E6%88%91%E7%88%B1%E4%BD%A0-%E7%B4%A2%E6%9C%97%E6%89%8E%E8%A5%BF-1036206.flac
+
+如果云知道-许茹芸,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A6%82%E6%9E%9C%E4%BA%91%E7%9F%A5%E9%81%93-%E8%AE%B8%E8%8C%B9%E8%8A%B8-5165979.flac
+
+好想好想-古巨基,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A5%BD%E6%83%B3%E5%A5%BD%E6%83%B3-%E5%8F%A4%E5%B7%A8%E5%9F%BA-40831400.flac
+
+女儿情-冯绍峰,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A5%B3%E5%84%BF%E6%83%85-%E5%86%AF%E7%BB%8D%E5%B3%B0-40593041.flac
+
+太想念(DJ阿卓版)-豆包,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%AA%E6%83%B3%E5%BF%B5(DJ%E9%98%BF%E5%8D%93%E7%89%88)-%E8%B1%86%E5%8C%85-216929788.flac
+
+天边-布仁巴雅尔,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%A9%E8%BE%B9(Horizon)-%E5%B8%83%E4%BB%81%E5%B7%B4%E9%9B%85%E5%B0%94-125993.flac
+
+天边的骆驼-呼斯楞,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%A9%E8%BE%B9%E7%9A%84%E9%AA%86%E9%A9%BC-%E5%91%BC%E6%96%AF%E6%A5%9E-6990224.flac
+
+天路-韩红,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%A9%E8%B7%AF-%E9%9F%A9%E7%BA%A2-107471.flac
+
+天路-陈蓉晖,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%A9%E8%B7%AF-%E9%99%88%E8%93%89%E6%99%96-13524669.mp3
+
+天籁之音,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%A9%E7%B1%81%E4%B9%8B%E9%9F%B3%20.mp3
+
+天堂草原-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%A9%E5%A0%82%E8%8D%89%E5%8E%9F-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-26273407.flac
+
+天堂-腾格尔,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%A9%E5%A0%82-%E8%85%BE%E6%A0%BC%E5%B0%94-23479857.flac
+
+大约在冬季-齐秦,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%A7%E7%BA%A6%E5%9C%A8%E5%86%AC%E5%AD%A3-%E9%BD%90%E7%A7%A6-226043.flac
+
+多年以后-季彦霖,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%9A%E5%B9%B4%E4%BB%A5%E5%90%8E-%E5%AD%A3%E5%BD%A6%E9%9C%96-74532256.flac
+
+多年以后(DJ何鹏版)-大欢,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%9A%E5%B9%B4%E4%BB%A5%E5%90%8E(DJ%E4%BD%95%E9%B9%8F%E7%89%88)-%E5%A4%A7%E6%AC%A2-71785188.flac
+
+外面的世界-齐秦,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%96%E9%9D%A2%E7%9A%84%E4%B8%96%E7%95%8C-%E9%BD%90%E7%A7%A6-110828.flac
+
+外婆的澎湖湾(DJ阿卓版),http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%A4%96%E5%A9%86%E7%9A%84%E6%BE%8E%E6%B9%96%E6%B9%BE(DJ%E9%98%BF%E5%8D%93%E7%89%88)-1%E4%B8%AA%E7%90%83-207654260.flac
+
+城里的月光-许美静,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%9F%8E%E9%87%8C%E7%9A%84%E6%9C%88%E5%85%89-%E8%AE%B8%E7%BE%8E%E9%9D%99-84362.flac
+
+垄上行-张明敏,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%9E%84%E4%B8%8A%E8%A1%8C-%E5%BC%A0%E6%98%8E%E6%95%8F-383313.flac
+
+坐上火车去拉萨-央金兰泽,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%9D%90%E4%B8%8A%E7%81%AB%E8%BD%A6%E5%8E%BB%E6%8B%89%E8%90%A8-%E5%A4%AE%E9%87%91%E5%85%B0%E6%B3%BD-1127576.flac
+
+在心里从此永远有个你-办桌二人组,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%9C%A8%E5%BF%83%E9%87%8C%E4%BB%8E%E6%AD%A4%E6%B0%B8%E8%BF%9C%E6%9C%89%E4%B8%AA%E4%BD%A0-%E5%8A%9E%E6%A1%8C%E4%BA%8C%E4%BA%BA%E7%BB%84-388733.flac
+
+回家的路(DJ豪大大版)-豪大大,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF(DJ%E8%B1%AA%E5%A4%A7%E5%A4%A7%E7%89%88)-%E8%B1%AA%E5%A4%A7%E5%A4%A7-92313826.flac
+
+回家(萨克斯版)-纯音乐,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%9B%9E%E5%AE%B6(%E8%90%A8%E5%85%8B%E6%96%AF%E7%89%88)-%E7%BA%AF%E9%9F%B3%E4%B9%90-7029135.flac
+
+喜马拉雅的雪_(Live)_-扎西尼玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E7%9A%84%E9%9B%AA_(Live)_-%E6%89%8E%E8%A5%BF%E5%B0%BC%E7%8E%9B-55521171.flac
+
+呼伦贝尔大草原-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94%E5%A4%A7%E8%8D%89%E5%8E%9F-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-928776.flac
+
+哥哥妹妹-胡小宝_门丽,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%93%A5%E5%93%A5%E5%A6%B9%E5%A6%B9-%E8%83%A1%E5%B0%8F%E5%AE%9D_%E9%97%A8%E4%B8%BD-9102818.flac
+
+吻和泪-周子寒_李富兴,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%90%BB%E5%92%8C%E6%B3%AA-%E5%91%A8%E5%AD%90%E5%AF%92_%E6%9D%8E%E5%AF%8C%E5%85%B4-51661385.flac
+
+吻别-张学友,
+http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%90%BB%E5%88%AB-%E5%BC%A0%E5%AD%A6%E5%8F%8B-157908.flac
+
+听心(DJ何鹏版)-杭娇,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%90%AC%E5%BF%83(DJ%E4%BD%95%E9%B9%8F%E7%89%88)-%E6%9D%AD%E5%A8%87-30220906.flac
+
+听闻远方有你-刘艺雯,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%90%AC%E9%97%BB%E8%BF%9C%E6%96%B9%E6%9C%89%E4%BD%A0-%E5%88%98%E8%89%BA%E9%9B%AF-150602055.flac
+
+向往神鹰-米线,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%90%91%E5%BE%80%E7%A5%9E%E9%B9%B0-%E7%B1%B3%E7%BA%BF-1042704.flac
+
+吉祥如意(藏语)-谢旦,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%90%89%E7%A5%A5%E5%A6%82%E6%84%8F(%E8%97%8F%E8%AF%AD)-%E8%B0%A2%E6%97%A6-27862796.mp3
+
+可可托海的牧羊人-王琪,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%8F%AF%E5%8F%AF%E6%89%98%E6%B5%B7%E7%9A%84%E7%89%A7%E7%BE%8A%E4%BA%BA-%E7%8E%8B%E7%90%AA-98172723.flac
+
+只要你过得比我好-钟镇涛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%8F%AA%E8%A6%81%E4%BD%A0%E8%BF%87%E5%BE%97%E6%AF%94%E6%88%91%E5%A5%BD-%E9%92%9F%E9%95%87%E6%B6%9B-158664.flac
+
+变心的翅膀-陈明真,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%8F%98%E5%BF%83%E7%9A%84%E7%BF%85%E8%86%80-%E9%99%88%E6%98%8E%E7%9C%9F-273225.flac
+
+卓玛-降央卓玛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%8D%93%E7%8E%9B-%E9%99%8D%E5%A4%AE%E5%8D%93%E7%8E%9B-928777.flac
+
+单身情歌-林志炫,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%8D%95%E8%BA%AB%E6%83%85%E6%AD%8C-%E6%9E%97%E5%BF%97%E7%82%AB-23655613.flac
+
+千年等一回-高胜美,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E-%E9%AB%98%E8%83%9C%E7%BE%8E-59573.flac
+
+千千阙歌-陈慧娴,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C-%E9%99%88%E6%85%A7%E5%A8%B4-80080.flac
+
+刺心-张茜,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%88%BA%E5%BF%83-%E5%BC%A0%E8%8C%9C-147087735.flac
+
+别问我是谁-王馨平,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%88%AB%E9%97%AE%E6%88%91%E6%98%AF%E8%B0%81-%E7%8E%8B%E9%A6%A8%E5%B9%B3-170071.flac
+
+别知己-海来阿木,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%88%AB%E7%9F%A5%E5%B7%B1-%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8.mp3
+
+冲动的惩罚-刀郎,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%86%B2%E5%8A%A8%E7%9A%84%E6%83%A9%E7%BD%9A-%E5%88%80%E9%83%8E-90515.flac
+
+冬季到台北来看雨-孟庭苇,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%86%AC%E5%AD%A3%E5%88%B0%E5%8F%B0%E5%8C%97%E6%9D%A5%E7%9C%8B%E9%9B%A8-%E5%AD%9F%E5%BA%AD%E8%8B%87-54739.flac
+
+再度重相逢-邓涛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%86%8D%E5%BA%A6%E9%87%8D%E7%9B%B8%E9%80%A2-%E9%82%93%E6%B6%9B-470037.flac
+
+再回首-姜育恒,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%86%8D%E5%9B%9E%E9%A6%96-%E5%A7%9C%E8%82%B2%E6%81%92-221787.flac
+
+做你的雪莲-艾歌,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%81%9A%E4%BD%A0%E7%9A%84%E9%9B%AA%E8%8E%B2-%E8%89%BE%E6%AD%8C-3219998.flac
+
+偏偏喜欢你-陈百强,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E5%81%8F%E5%81%8F%E5%96%9C%E6%AC%A2%E4%BD%A0-%E9%99%88%E7%99%BE%E5%BC%BA-142801.flac
+
+依靠-任贤齐,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BE%9D%E9%9D%A0-%E4%BB%BB%E8%B4%A4%E9%BD%90-38035430.flac
+
+你莫走-山水组合,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BD%A0%E8%8E%AB%E8%B5%B0-%E5%B1%B1%E6%B0%B4%E7%BB%84%E5%90%88-97217950.flac
+
+你的眼神-蔡琴,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%A5%9E-%E8%94%A1%E7%90%B4-237893.flac
+
+你的柔情我永远不懂-陈琳,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BD%A0%E7%9A%84%E6%9F%94%E6%83%85%E6%88%91%E6%B0%B8%E8%BF%9C%E4%B8%8D%E6%87%82-%E9%99%88%E7%90%B3-292787.flac
+
+你牛什么牛dj(唐古)-DJ何鹏,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BD%A0%E7%89%9B%E4%BB%80%E4%B9%88%E7%89%9Bdj(%E5%94%90%E5%8F%A4)-DJ%E4%BD%95%E9%B9%8F-62832917.aac
+
+你是我的格桑花-文希,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E6%A0%BC%E6%A1%91%E8%8A%B1-%E6%96%87%E5%B8%8C-71851960.mp3
+
+你是我唯一的执着-马健涛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BD%A0%E6%98%AF%E6%88%91%E5%94%AF%E4%B8%80%E7%9A%84%E6%89%A7%E7%9D%80-%E9%A9%AC%E5%81%A5%E6%B6%9B-77713430.flac
+
+你快回来_(Live)-孙楠,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BD%A0%E5%BF%AB%E5%9B%9E%E6%9D%A5_(Live)-%E5%AD%99%E6%A5%A0-21765879.flac
+
+你慢慢走我好好过,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BD%A0%E6%85%A2%E6%85%A2%E8%B5%B0%E6%88%91%E5%A5%BD%E5%A5%BD%E8%BF%87%20.wma
+
+你到底爱谁-刘嘉亮,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BD%A0%E5%88%B0%E5%BA%95%E7%88%B1%E8%B0%81-%E5%88%98%E5%98%89%E4%BA%AE-133930.flac
+
+仓央嘉措情歌-高原天籁,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BB%93%E5%A4%AE%E5%98%89%E6%8E%AA%E6%83%85%E6%AD%8C-%E9%AB%98%E5%8E%9F%E5%A4%A9%E7%B1%81-6746112.flac
+
+伤我你疼吗-马健涛,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BC%A4%E6%88%91%E4%BD%A0%E7%96%BC%E5%90%97-%E9%A9%AC%E5%81%A5%E6%B6%9B-74391752.flac
+
+从头再来(Live)-刘欢,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BB%8E%E5%A4%B4%E5%86%8D%E6%9D%A5(Live)-%E5%88%98%E6%AC%A2-96217.flac
+
+今生相爱-泽尔丹_扎西措,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BB%8A%E7%94%9F%E7%9B%B8%E7%88%B1-%E6%B3%BD%E5%B0%94%E4%B8%B9_%E6%89%8E%E8%A5%BF%E6%8E%AA-621243.flac
+
+今夜我一个人醉-徐婧,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BB%8A%E5%A4%9C%E6%88%91%E4%B8%80%E4%B8%AA%E4%BA%BA%E9%86%89-%E5%BE%90%E5%A9%A7-55741779.flac
+
+乡间小路-齐豫,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B9%A1%E9%97%B4%E5%B0%8F%E8%B7%AF-%E9%BD%90%E8%B1%AB-41518630.flac
+
+人世间-雷佳,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%BA%BA%E4%B8%96%E9%97%B4-%E9%9B%B7%E4%BD%B3-208068689.flac
+
+为你等待-次仁央宗,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%BA%E4%BD%A0%E7%AD%89%E5%BE%85-%E6%AC%A1%E4%BB%81%E5%A4%AE%E5%AE%97-680591.flac
+
+两只蝴蝶-庞龙,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%A4%E5%8F%AA%E8%9D%B4%E8%9D%B6-%E5%BA%9E%E9%BE%99-108326.flac
+
+世界之最,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%96%E7%95%8C%E4%B9%8B%E6%9C%80.flac
+
+不是我不小心-张镐哲,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%8D%E6%98%AF%E6%88%91%E4%B8%8D%E5%B0%8F%E5%BF%83-%E5%BC%A0%E9%95%90%E5%93%B2-626490.flac
+
+下雨的时候-张毅,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%8B%E9%9B%A8%E7%9A%84%E6%97%B6%E5%80%99-%E5%BC%A0%E6%AF%85-4884837.mp3
+
+万物生-萨顶顶,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%87%E7%89%A9%E7%94%9F-%E8%90%A8%E9%A1%B6%E9%A1%B6.mp3
+
+一晃就老了(DJ何鹏版伴奏版)-秋裤大叔,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%80%E6%99%83%E5%B0%B1%E8%80%81%E4%BA%86(DJ%E4%BD%95%E9%B9%8F%E7%89%88%E4%BC%B4%E5%A5%8F%E7%89%88)-%E7%A7%8B%E8%A3%A4%E5%A4%A7%E5%8F%94-29589999.flac
+
+丁香花-唐磊,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%81%E9%A6%99%E8%8A%B1-%E5%94%90%E7%A3%8A-5041403.flac
+
+一路向北-冷漠,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%80%E8%B7%AF%E5%90%91%E5%8C%97-%E5%86%B7%E6%BC%A0-3229127.flac
+
+一开始说陪你到老的人现在他还在吗-韩小欠,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%80%E5%BC%80%E5%A7%8B%E8%AF%B4%E9%99%AA%E4%BD%A0%E5%88%B0%E8%80%81%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E4%BB%96%E8%BF%98%E5%9C%A8%E5%90%97-%E9%9F%A9%E5%B0%8F%E6%AC%A0%5B%E7%94%B7%5D-156502168.flac
+
+一天到晚游泳的鱼-张雨生,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%80%E5%A4%A9%E5%88%B0%E6%99%9A%E6%B8%B8%E6%B3%B3%E7%9A%84%E9%B1%BC-%E5%BC%A0%E9%9B%A8%E7%94%9F-918349.flac
+
+一千零一夜-邰正宵,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C-%E9%82%B0%E6%AD%A3%E5%AE%B5-152578.flac
+
+一剪梅-费玉清,
+http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/%E4%B8%80%E5%89%AA%E6%A2%85-%E8%B4%B9%E7%8E%89%E6%B8%85-79032.flac
+
+ZZ___DJ火红的萨日朗,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/ZZ___DJ%E7%81%AB%E7%BA%A2%E7%9A%84%E8%90%A8%E6%97%A5%E6%9C%97-%E6%9C%AA%E7%9F%A5%E6%AD%8C%E6%89%8B.mp3
+
+ZZ_DJ女声嗨曲《一剪梅》,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/ZZ___DJ%E5%A5%B3%E5%A3%B0%E5%97%A8%E6%9B%B2%E3%80%8A%E4%B8%80%E5%89%AA%E6%A2%85%E3%80%8B-%E6%9C%AA%E7%9F%A5%E6%AD%8C%E6%89%8B.mp3
+
+ZZ_DJ酒醉的蝴蝶,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/ZZ___DJ%E3%80%8A%E9%85%92%E9%86%89%E7%9A%84%E8%9D%B4%E8%9D%B6-%E6%9C%AA%E7%9F%A5%E6%AD%8C%E6%89%8B.mp3
+
+ZZ_DJ《伤离别》,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/ZZ___DJ%E3%80%8A%E4%BC%A4%E7%A6%BB%E5%88%AB%E3%80%8B-%E6%9C%AA%E7%9F%A5%E6%AD%8C%E6%89%8B.mp3
+
+ZZ_DJ《青木林里青木秧》,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/ZZ__DJ%E3%80%8A%E9%9D%92%E6%9C%A8%E6%9E%97%E9%87%8C%E9%9D%92%E6%9C%A8%E7%A7%A7%E3%80%8B-%E6%9C%AA%E7%9F%A5%E6%AD%8C%E6%89%8B.mp3
+
+With_An_Orchid-Yanni,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/With_An_Orchid-Yanni-296816.flac
+
+Vivi_Nell'Aria-DJ_Maxwell,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/Vivi_Nell'Aria-DJ_Maxwell-15891803.flac
+
+Vivi_Nell'Aria-DJ_Maxwell,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/Victory-Two_Steps_From_Hell-27780292.flac
+
+The_end_point-阳山伟伟,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/The_end_point-%E9%98%B3%E5%B1%B1%E4%BC%9F%E4%BC%9F-60238536.flac
+
+The_Spectre-Alan_Walker,
+http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/The_Spectre-Alan_Walker-28660541.flac
+
+Sometimes_When_It_Rains-Secret_Garden,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/Sometimes_When_It_Rains-Secret_Garden-8271112.flac
+
+SaoBeKhongLak(DJ热播版)-九船,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/SaoBeKhongLak(DJ%E7%83%AD%E6%92%AD%E7%89%88)-%E4%B9%9D%E8%88%B9-173761092.flac
+
+See_You_Again-Wiz_Khalifa_Charlie_Puth,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/See_You_Again-Wiz_Khalifa_Charlie_Puth-6340467.flac
+
+Play-Adam_Danial_Torine,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/Play-Adam_Danial_Torine-140432870.flac
+
+Faded-AlanWalker_IselinSolheim,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/Faded-AlanWalker_IselinSolheim-6749207.flac
+
+Early_Morning_Dreams沐泽_耀仔,
+http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/Early_Morning_Dreams%EF%BC%88%E6%8A%96%E9%9F%B3%E7%89%88%EF%BC%89-%E6%B2%90%E6%B3%BD_%E8%80%80%E4%BB%94-150220461.flac
+
+Fade(NCS_Release)-Alan_Walker,
+http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/Fade(NCS_Release)-Alan_Walker-6217318.flac
+
+Emmanuel-Chris_Botti,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/Emmanuel-Chris_Botti-10902757.mp3
+
+抖音热播中英文合集篇 Dj大串烧,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/DJ%E5%A4%9A%E5%A4%9A-2021%20-%20%E6%8A%96%E9%9F%B3%E7%83%AD%E6%92%AD%E4%B8%AD%E8%8B%B1%E6%96%87%E5%90%88%E9%9B%86%E7%AF%87%20Dj%E5%A4%A7%E4%B8%B2%E7%83%A7.%5BHQ%5D.mp3
+
+Aloha_Heja_He,http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/Aloha_Heja_He-Christian_Und_Die_Sauberen_Jungs-15942156.flac
+
+2022网络热播经典旋律,
+http://qx.5yi.fun/d/Aliyun/%E9%9F%B3%E9%A2%91/2022%E7%BD%91%E7%BB%9C%E7%83%AD%E6%92%AD%E7%BB%8F%E5%85%B8%E6%97%8B%E5%BE%8B.mp3
 
 🔉DJ,#genre# 
 

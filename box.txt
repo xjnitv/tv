@@ -1,8 +1,4 @@
 
-原始文件
-永久链接
-Blame
-文件历史
   
 {"spider":"https://agit.ai/xjn/b/raw/branch/master/1.jar",
  "sites":[

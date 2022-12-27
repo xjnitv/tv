@@ -10,7 +10,7 @@
       "key": "zhibo19",
       "name": "骑行与🎶音乐",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=https://raw.iqiq.io/xjnitv/tv/main/b.txt&img=2",     
+      "api": "http://120.53.102.254/live?url=https://agit.ai/xjn/b/raw/branch/master/b.txt&img=2",     
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -24,7 +24,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://raw.iqiq.io/xjnitv/tv/main/d.txt"
+		"ext": "http://qx.5yi.fun/d/Aliyun/a.txt"
 	},
 {
       "key": "MV大全",

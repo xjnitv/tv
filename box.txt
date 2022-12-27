@@ -1,14 +1,12 @@
-{
-"spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
+"sites": [
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3F4LjV5aS5mdW4vZC9BbGl5dW4vYi50eHQ="]}]}],
-	"sites": [
-
-             
-    
+	
+{"spider":"https://agit.ai/xjn/b/raw/branch/master/1.jar",
+ "sites":[
                          {
       "key": "zhibo19",
-      "name": "骑行与🎶音乐",
+      "name": "骑行与🎶音乐备用线路",
       "type": 4,
       "api": "http://120.53.102.254/live?url=https://agit.ai/xjn/b/raw/branch/master/b.txt&img=2",     
       "searchable": 1,
